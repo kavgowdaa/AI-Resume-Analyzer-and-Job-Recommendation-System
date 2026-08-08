@@ -1,7 +1,3 @@
-
-
-Absolutely. Here is your final Unlox Testing Sheet, based on the five actual tests you completed.
-
 AI Resume Analyzer and Job Recommendation System
 Software Testing Sheet
 1. Testing Objective
