@@ -1,0 +1,92 @@
+Skill,Category
+Python,Programming
+Java,Programming
+C,Programming
+C++,Programming
+C#,Programming
+Kotlin,Programming
+JavaScript,Programming
+HTML,Web
+CSS,Web
+React,Web
+Node.js,Web
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+SQLite,Database
+MongoDB,Database
+Pandas,Library
+NumPy,Library
+Matplotlib,Library
+Seaborn,Library
+Scikit-learn,Library
+TensorFlow,Library
+PyTorch,Library
+OpenCV,Library
+Flask,Framework
+Django,Framework
+FastAPI,Framework
+Machine Learning,AI
+Deep Learning,AI
+NLP,AI
+Computer Vision,AI
+LLM,AI
+RAG,AI
+LangChain,AI
+Gemini,AI
+Transformers,AI
+Hugging Face,AI
+spaCy,AI
+NLTK,AI
+YOLO,AI
+CNN,AI
+Regression,ML
+Classification,ML
+Feature Engineering,ML
+Model Evaluation,ML
+Statistics,ML
+Excel,Tool
+Power BI,Tool
+Tableau,Tool
+Git,Tool
+GitHub,Tool
+Docker,Cloud
+Kubernetes,Cloud
+AWS,Cloud
+Azure,Cloud
+Linux,OS
+Jupyter Notebook,Tool
+VS Code,Tool
+Android Studio,Tool
+Firebase,Backend
+REST API,Backend
+APIs,Backend
+Spark,Big Data
+Hadoop,Big Data
+ETL,Data Engineering
+Airflow,Data Engineering
+MLflow,MLOps
+CI/CD,DevOps
+OOP,Concept
+DBMS,Concept
+DSA,Concept
+Image Processing,AI
+Communication,Soft Skill
+Testing,QA
+Automation,QA
+Research,General
+Data Warehouse,Database
+XML,Android
+Jetpack Compose,Android
+MVVM,Android
+Room Database,Android
+Material 3,Android
+Jetpack,Android
+Coroutines,Android
+XML,Android
+Jetpack Compose,Android
+MVVM,Android
+Room Database,Android
+Material 3,Android
+Jetpack,Android
+Coroutines,Android
